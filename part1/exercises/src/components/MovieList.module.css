@@ -2,10 +2,11 @@
    color: blue;
    text-align: left;
    font-size: 12pt;
+   background-color: yellow;
 }
 
 .movieHeading {
-   color: blueviolet;
+   color: purple;
    text-align: left;
    font-size: 24pt;
 }

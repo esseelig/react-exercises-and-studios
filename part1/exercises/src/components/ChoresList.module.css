@@ -1,7 +1,8 @@
 .choresText {
-   color: orangered;
+   color: orange;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-size: 12pt;
+   text-align: left;
    font-style: italic;
 }
 
@@ -9,5 +10,6 @@
    color: red;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    font-size: 24pt;
+   text-align: left;
    text-decoration: underline;
 }
